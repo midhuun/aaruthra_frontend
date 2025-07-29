@@ -251,7 +251,7 @@ export default function ProductDetails({ product }: ProductDetailsProps) {
                 className="pt-6 sm:pt-8"
               >
                 <motion.a
-                  href="https://www.instagram.com/aaruthracreations/"
+                  href="https://www.instagram.com/aaruthra_creations/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center w-full bg-gradient-to-r from-amber-500 via-yellow-500 to-amber-500 text-black py-3 sm:py-4 px-6 sm:px-8 rounded-2xl font-bold text-sm sm:text-lg shadow-2xl hover:shadow-amber-500/25 transition-all duration-500 relative overflow-hidden group"

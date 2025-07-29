@@ -551,7 +551,7 @@ export default function Home() {
               </motion.p>
               
               <motion.a
-                href="https://www.instagram.com/aaruthracreations/"
+                href="https://www.instagram.com/aaruthra_creations/"
                 target="_blank"
                 rel="noopener noreferrer"
                 variants={itemVariants}
@@ -663,7 +663,7 @@ export default function Home() {
                 style={{ transform: 'translateZ(20px)' }}
               >
                 <motion.a
-                  href="https://www.instagram.com/aaruthracreations/"
+                  href="https://www.instagram.com/aaruthra_creations/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group relative p-4 rounded-full bg-gradient-to-r from-amber-500/10 to-yellow-500/10 border border-amber-400/30 hover:bg-amber-500/20 transition-all duration-300"
